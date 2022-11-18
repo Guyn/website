@@ -25,7 +25,7 @@
 		"@sil/scroll-trigger": "^1.1.2",
 		"guyn": "0.0.13",
 		"henris": "^1.2.18",
-		"nuxt": "^2.11.0",
+		"nuxt": "^2.15.8",
 		"velocity-animate": "^1.5.2",
 		"vue-clipboard2": "^0.3.1"
 	},
